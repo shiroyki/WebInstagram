@@ -1,4 +1,4 @@
-# Project Name CSCI4410 WebInstagram by Pak Yik Ki (SID: 1155157022)
+# Project Name CSCI4140 WebInstagram by Pak Yik Ki (SID: 1155157022)
 
 This is a readme file to provide information about the project file structure and setup configuration.
 

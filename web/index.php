@@ -27,13 +27,13 @@
   }
 }
     </style>
-    <title>CSCI4410 WebInstagram</title>
+    <title>CSCI4140 WebInstagram</title>
   </head>
   <body>
     
     <?php 
 
-      echo '<h1>CSCI4410 WebInstagram by Pak Yik Ki (SID: 1155157022)</h1>';
+      echo '<h1>CSCI4140 WebInstagram by Pak Yik Ki (SID: 1155157022)</h1>';
       include('db_connect.php');
       
       

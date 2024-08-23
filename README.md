@@ -2,6 +2,8 @@
 
 This is a readme file to provide information about the project file structure and setup configuration.
 
+# Website Set-Up
+You can host this website on Render: https://render.com/
 
 ## Directory Structure and Functionality
 

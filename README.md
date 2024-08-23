@@ -2,10 +2,6 @@
 
 This is a readme file to provide information about the project file structure and setup configuration.
 
-## Website Link
-
-The project's website is hosted on Render at the following URL:
-https://one155157022.onrender.com/
 
 ## Directory Structure and Functionality
 
